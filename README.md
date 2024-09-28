@@ -1,28 +1,83 @@
 <h1 align="center">Hi 👋, I'm Amit Mishra</h1>
-<h3 align="center">"India-based MERN maestro, weaving digital wonders."</h3>
+<h3 align="center">Results-driven professional with expertise in Node.js, Python, and Machine Learning</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eivorrrz" alt="eivorrrz" /></a> </p>
 
-- 🔭 I’m currently working on [Flixio](https://flixio-o.netlify.app/)
+- 🔭 I’m currently working on [VirtuoSphere](https://github.com/your-link)
 
 - 🌱 I’m currently learning **Kubernetes, AWS, Next.js**
 
-- 💬 Ask me about **React-Redux,JavaScript,Sass**
+- 💬 Ask me about **React-Redux, JavaScript, Python, Node.js**
 
-- 📫 How to reach me **eivorftw234@gmail.com**
+- 📫 How to reach me **eivorftw234@gmail.com** | 7978418038
 
-- ⚡ Fun fact **"I'm currently working on a game engine from scratch because why not? Let's build our own worlds! 🌍✨"**
+- ⚡ Fun fact **"I'm building web apps and diving into machine learning in my free time."**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 <p align="left">
-<a href="https://twitter.com/eivorrrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eivorrrz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
-<a href="https://instagram.com/e_i_v_o_r__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_i_v_o_r__" height="30" width="40" /></a>
+<a href="https://github.com/eivorrrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eivorrrz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amit-mishra-656676303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Mishra LinkedIn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Summary:</h3>
+<p>Results-driven professional with expertise in Node.js, Python, and Machine Learning. Proven ability to consult with stakeholders, solve complex business problems, and deliver impactful analytical solutions. Demonstrates strong analytical skills, problem-solving capabilities, and a commitment to continuous improvement. Adept at optimizing web applications and leveraging data for informed decision-making.</p>
 
+<h3 align="left">Education:</h3>
+<p><b>ITER SOA</b> — SIKSHA ’O’ ANUSANDHAN Jagmohan Nagar, Bhubaneswar, Odisha<br>B.Tech in Computer Science and Engineering (2021-2025)</p>
+
+<h3 align="left">Experiences:</h3>
+<ul>
+  <li><b>Across The Globe (ATG)</b> — React Intern (15-9-2023 - 5-2-2024) | Bangalore</li>
+  <ul>
+    <li>Participated in an internship at ATG Globe as a React and Redux developer. Actively involved in building and optimizing web applications.</li>
+    <li>Leveraged React.js and Redux for efficient state management and contributed to robust user interface development.</li>
+    <li>Enhanced application performance and scalability through meticulous testing and implemented best practices for high-quality code standards.</li>
+  </ul>
+
+  <li><b>Celebal Technologies</b> — NodeJS Trainee (Jul 2024 - Present) | Remote</li>
+  <ul>
+    <li>Excelled in crafting efficient and scalable web applications using Node.js and Express.js.</li>
+    <li>Spearheaded projects focused on performance optimization and utilized advanced development methodologies.</li>
+    <li>Contributed significantly to the company’s track record of delivering superior solutions while committing to continual learning and professional growth.</li>
+  </ul>
+</ul>
+
+<h3 align="left">Projects:</h3>
+<ul>
+  <li><b>VirtuoSphere</b> — Sass-powered Dropservicing Platform | TypeScript-React.js-Node.js-Stripe</li>
+  <ul>
+    <li>A sleek, Sass-powered platform known for superior performance and ease of use, featuring seamless Stripe integration for secure payment processing.</li>
+  </ul>
+
+  <li><b>Flixio</b> — Movie Web App | JavaScript-React.js-Redux</li>
+  <ul>
+    <li>Showcases expertise in React and Redux for dynamic UI development and efficient state management, featuring innovative web design with enhanced functionality.</li>
+  </ul>
+
+  <li><b>Scriptify Pro</b> — Browser-Based Machine Learning App | React.js-Framer Motion-Web Workers</li>
+  <ul>
+    <li>Harnesses browser-based machine learning for accurate transcription and translation, ensuring secure, efficient, and swift results.</li>
+  </ul>
+</ul>
+
+<h3 align="left">Achievements:</h3>
+<ul>
+  <li>Top Performer and Outstanding Intern Award at ATG Global</li>
+  <ul>
+    <li>Recognized for high-quality code delivery in React projects and exceptional problem-solving skills.</li>
+  </ul>
+</ul>
+
+<h3 align="left">Technical Skills:</h3>
+<ul>
+  <li>HTML/CSS: Advanced</li>
+  <li>JavaScript/TypeScript: Advanced</li>
+  <li>React/Redux: Proficient</li>
+  <li>Node.js: Competent</li>
+  <li>Express.js: Competent</li>
+  <li>Python: Proficient</li>
+  <li>Machine Learning: Proficient</li>
+</ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eivorrrz&show_icons=true&locale=en&layout=compact" alt="eivorrrz" /></p>
 
