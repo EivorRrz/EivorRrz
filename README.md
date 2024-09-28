@@ -43,22 +43,37 @@
 </ul>
 
 <h3 align="left">Projects:</h3>
-<ul>
-  <li><b>VirtuoSphere</b> — Sass-powered Dropservicing Platform | TypeScript-React.js-Node.js-Stripe</li>
-  <ul>
-    <li>A sleek, Sass-powered platform known for superior performance and ease of use, featuring seamless Stripe integration for secure payment processing.</li>
-  </ul>
 
-  <li><b>Flixio</b> — Movie Web App | JavaScript-React.js-Redux</li>
-  <ul>
-    <li>Showcases expertise in React and Redux for dynamic UI development and efficient state management, featuring innovative web design with enhanced functionality.</li>
-  </ul>
-
-  <li><b>Scriptify Pro</b> — Browser-Based Machine Learning App | React.js-Framer Motion-Web Workers</li>
-  <ul>
-    <li>Harnesses browser-based machine learning for accurate transcription and translation, ensuring secure, efficient, and swift results.</li>
-  </ul>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>VirtuoSphere <img src="https://img.icons8.com/ios-filled/25/000000/stripe.png" alt="Stripe" /></td>
+      <td>A sleek, Sass-powered platform known for superior performance and ease of use, featuring seamless Stripe integration for secure payment processing.</td>
+      <td>TypeScript, React.js, Node.js, Stripe</td>
+      <td><a href="https://github.com/your-link">GitHub Repo</a></td>
+    </tr>
+    <tr>
+      <td>Flixio <img src="https://img.icons8.com/color/25/000000/react-native.png" alt="React" /></td>
+      <td>Showcases expertise in React and Redux for dynamic UI development and efficient state management, with innovative web design.</td>
+      <td>JavaScript, React.js, Redux</td>
+      <td><a href="https://github.com/your-link">GitHub Repo</a></td>
+    </tr>
+    <tr>
+      <td>Scriptify Pro <img src="https://img.icons8.com/ios-filled/25/000000/machine-learning.png" alt="Machine Learning" /></td>
+      <td>Harnesses browser-based machine learning for accurate transcription and translation, ensuring secure, efficient, and swift results.</td>
+      <td>React.js, Framer Motion, Web Workers</td>
+      <td><a href="https://github.com/your-link">GitHub Repo</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 align="left">Achievements:</h3>
 <ul>
