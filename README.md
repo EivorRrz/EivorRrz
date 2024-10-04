@@ -1,5 +1,5 @@
 # Hi! I'm AMIT MISHRA
-===================================================================================================================================
+
 
 🚀 **MERN Stack Developer And React & Node.js Enthusiast!**  
 Ready to conquer the digital universe with my trusty sidekicks **React.js**, **Node.js**, and **Express.js**! 💻✨  
