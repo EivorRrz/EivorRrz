@@ -5,14 +5,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ready to conquer the digital universe with my trusty sidekicks React.js, Node.js, and Express.js! 💻✨ 
 
 🎓 Currently Leveling Up: 
+
 Wrapping up my B.Tech in Computer Science and Engineering at ITER SOA, while diving into some epic 
 internships! 
 
 🌟 ATG Global: 
+
 •Dove into React.js and Redux like a boss, crafting web applications that made everyone say, “Whoa, that’s cool!” 
 •Snagged the title of "Top Performer and Outstanding Intern" 🏆—because who doesn’t love a shiny trophy on their shelf? 
 
 🎉 Celebal Technologies: 
+
 •Made a grand entrance as a Node.js Trainee, leading projects that turned heads and dropped jaws. 
 •Cooked up the VirtuoSphere platform and snazzy ML solutions like Scriptify Pro—where cutting-edge tech meets user-friendly flair! 
 
