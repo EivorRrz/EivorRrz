@@ -1,6 +1,5 @@
 # Hi! I'm AMIT MISHRA
 
-
 🚀 **MERN Stack Developer And React & Node.js Enthusiast!**  
 Ready to conquer the digital universe with my trusty sidekicks **React.js**, **Node.js**, and **Express.js**! 💻✨  
 
@@ -106,5 +105,5 @@ Passionate about **continuous learning** and always ready to tackle new challeng
 
 **My GitHub Stats**  
 <a href="http://www.github.com/EivorRrz">
-    <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&locale=en&theme=dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=dark" />
 </a>
