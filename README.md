@@ -104,6 +104,10 @@ Passionate about **continuous learning** and always ready to tackle new challeng
 ### Badges  
 
 **My GitHub Stats**  
-<a href="http://www.github.com/EivorRrz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=dark" />
-</a>
+<a href="http://www.github.com/EivorRrz"><img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=1c1917&title_color=facc15&text_color=facc15" alt="My GitHub stats" /></a>
+<a href="http://www.github.com/EivorRrz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&langs_count=6&layout=compact&hide_border=true&theme=radical&bg_color=1c1917&title_color=facc15&text_color=facc15" /></a>
+
+---
+
+### Let's Connect!  
+Together, we can create something amazing! ✨
