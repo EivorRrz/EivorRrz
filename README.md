@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm AMIT MISHRA
+# Hi! I'm AMIT MISHRA
 ===================================================================================================================================
 
 🚀 **MERN Stack Developer And React & Node.js Enthusiast!**  
@@ -70,6 +70,13 @@ Passionate about **continuous learning** and always ready to tackle new challeng
     </a>
 </p>
 
+### Projects  
+| Project Name                               | Description                                                                                                         | Link                                   |
+|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| VirtuoSphere                               | A sleek, Sass-powered platform for performance and ease of use with Stripe integration for secure payments!          | [Visit VirtuoSphere](https://virtuosphere.netlify.app/) |
+| Flixio-Movie-Web                          | Dynamic movie app showcasing my React & Redux skills with user-centric features—where design meets functionality!  | [Visit Flixio](https://flixio-o.netlify.app/)         |
+| Scriptify Pro                             | Browser-based ML for swift transcription & translation—because who needs slow when you can go fast?                 | [Visit Scriptify Pro](https://scriptify-pro-web.netlify.app/)   |
+
 ### Socials  
 <p align="left"> 
     <a href="https://www.github.com/EivorRrz" target="_blank" rel="noreferrer"> 
@@ -99,16 +106,5 @@ Passionate about **continuous learning** and always ready to tackle new challeng
 
 **My GitHub Stats**  
 <a href="http://www.github.com/EivorRrz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&locale=en&theme=dark&hide_border=true" />
 </a>
-
-<a href="https://github.com/EivorRrz" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&locale=en&theme=dracula" alt="EivorRrz's GitHub stats" />
-</a>
-
-<a href="https://github.com/EivorRrz" align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=compact&theme=dracula" />
-</a>
-
----  
-**Thank you for stopping by!**
