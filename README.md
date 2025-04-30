@@ -16,7 +16,7 @@
 Results-oriented, analytical, and self-starter Software Engineer with strong attention to detail. Highly skilled in JavaScript, 
 TypeScript, React.js, Node.js, Golang, and Python. Experienced in design and development of AI-integrated applications, cloud-native 
 microservices, and scalable back-end systems. Passionate about delivering technical solutions that enhance user experience and drive 
-successful product releases
+successful product releases.
 
 ---
 
@@ -47,90 +47,81 @@ successful product releases
 ## 🚀 Projects
 
 ### 🔗 BlockBazaar-Hub: Blockchain Marketplace Backend  
+**Tech Stack:**  
 *JavaScript, Node.js, Express, MongoDB, Solidity, Web3, IPFS, Redis*  
 - Minted on-chain NFTs via lightning-fast Solana smart contracts with 99.9% reliability.  
 - Built dynamic auctions and integrated decentralized storage (IPFS/Arweave).  
-- Boosted transaction speed by 2x through smart query optimization and Web3 storage.  
-
+- Boosted transaction speed by 2x through smart query optimization and Web3 storage.
 
 ### 🚖 RideVibe Engine: Cab Booking Backend  
+**Tech Stack:**  
 *Node.js, Express.js, MongoDB, JWT, Bcrypt.js, Express-Validator, Kafka, Redis, Docker*  
 - Improved ride processing speed by 37% through advanced query optimization.  
 - Built a scalable ride management system supporting 3x more concurrent users.  
-- Delivered 100% coverage for pickup/drop-off, vehicle info, and live ride tracking.  
-
+- Delivered 100% coverage for pickup/drop-off, vehicle info, and live ride tracking.
 
 ### 🍽️ GrubNest: Restaurant Management Backend  
+**Tech Stack:**  
 *Node.js, Express.js, MongoDB, JWT, Redis, GraphQL, Mongoose, Postman, Mocha, Chai*  
 - Optimized user onboarding with Node.js, Express.js, MongoDB, JWT, and Redis, ensuring 99.8% access success.  
 - Developed efficient CRUD operations with GraphQL and Mongoose for food, orders, and restaurant data.  
-- Automated API testing with Postman, Mocha, and Chai to ensure high performance and reliability.  
-
+- Automated API testing with Postman, Mocha, and Chai to ensure high performance and reliability.
 
 ---
 
 ## 💻 Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Development-Node.js-brightgreen?style=flat-square&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Backend%20Development-Express.js-blue?style=flat-square&logo=express" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Backend%20Development-Fastify-darkblue?style=flat-square&logo=fastify" alt="Fastify" />
-  <img src="https://img.shields.io/badge/Backend%20Development-Golang-lightblue?style=flat-square&logo=go" alt="Golang" />
-  <img src="https://img.shields.io/badge/Backend%20Development-Python-blue?style=flat-square&logo=python" alt="Python" />
-</p>
+**Backend Development:**  
+- Node.js  
+- Express.js  
+- Fastify  
+- Golang  
+- Python
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Development-React.js-brightgreen?style=flat-square&logo=react" alt="React.js" />
-  <img src="https://img.shields.io/badge/Frontend%20Development-Redux-blue?style=flat-square&logo=redux" alt="Redux" />
-  <img src="https://img.shields.io/badge/Frontend%20Development-TypeScript-blue?style=flat-square&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Frontend%20Development-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
-</p>
+**Frontend Development:**  
+- React.js  
+- Redux  
+- TypeScript  
+- JavaScript
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Database%20Technologies-MongoDB-green?style=flat-square&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Database%20Technologies-PostgreSQL-blue?style=flat-square&logo=postgresql" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Database%20Technologies-Redis-darkred?style=flat-square&logo=redis" alt="Redis" />
-  <img src="https://img.shields.io/badge/Database%20Technologies-IPFS-black?style=flat-square&logo=ipfs" alt="IPFS" />
-</p>
+**Database Technologies:**  
+- MongoDB  
+- PostgreSQL  
+- Redis  
+- IPFS
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Blockchain-Solidity-blueviolet?style=flat-square&logo=solidity" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Blockchain-Web3-0A0A0A?style=flat-square&logo=web3" alt="Web3" />
-  <img src="https://img.shields.io/badge/Blockchain-Smart%20Contracts-darkblue?style=flat-square&logo=ethereum" alt="Smart Contracts" />
-  <img src="https://img.shields.io/badge/Blockchain-IPFS-black?style=flat-square&logo=ipfs" alt="IPFS" />
-  <img src="https://img.shields.io/badge/Blockchain-Arweave-darkorange?style=flat-square&logo=arweave" alt="Arweave" />
-</p>
+**Blockchain:**  
+- Solidity  
+- Web3  
+- Smart Contracts  
+- IPFS  
+- Arweave
 
-<p align="center">
-  <img src="https://img.shields.io/badge/API%20Development-RESTful%20APIs-green?style=flat-square&logo=api" alt="RESTful APIs" />
-  <img src="https://img.shields.io/badge/API%20Development-GraphQL-black?style=flat-square&logo=graphql" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/API%20Development-JWT-blue?style=flat-square&logo=json-web-tokens" alt="JWT" />
-  <img src="https://img.shields.io/badge/API%20Development-Bcrypt.js-darkgreen?style=flat-square&logo=bcrypt" alt="Bcrypt.js" />
-</p>
+**API Development:**  
+- RESTful APIs  
+- GraphQL  
+- JWT  
+- Bcrypt.js
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Docker-blue?style=flat-square&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Kafka-blue?style=flat-square&logo=kafka" alt="Kafka" />
-  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Postman-yellow?style=flat-square&logo=postman" alt="Postman" />
-  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Mocha-green?style=flat-square&logo=mocha" alt="Mocha" />
-  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Chai-yellow?style=flat-square&logo=chai" alt="Chai" />
-  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Git-orange?style=flat-square&logo=git" alt="Git" />
-</p>
+**DevOps & Tools:**  
+- Docker  
+- Kafka  
+- Postman  
+- Mocha  
+- Chai  
+- Git
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud%20Computing-AWS-orange?style=flat-square&logo=amazonaws" alt="AWS" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-GCP-blue?style=flat-square&logo=googlecloud" alt="GCP" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-Azure-darkblue?style=flat-square&logo=microsoftazure" alt="Azure" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-Cloud-native%20Architecture-darkgreen?style=flat-square&logo=cloud" alt="Cloud-native Architecture" />
-</p>
+**Cloud & Serverless:**  
+- AWS  
+- GCP  
+- Azure  
+- Cloud-native Architecture
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Core%20Skills-Application%20Development-blue?style=flat-square&logo=appveyor" alt="Application Development" />
-  <img src="https://img.shields.io/badge/Core%20Skills-Data%20Structures%20%26%20Algorithms-lightblue?style=flat-square&logo=algorithm" alt="Data Structures & Algorithms" />
-  <img src="https://img.shields.io/badge/Core%20Skills-IoT%20%26%20Salesforce-green?style=flat-square&logo=iot" alt="IoT & Salesforce" />
-  <img src="https://img.shields.io/badge/Core%20Skills-Security%20%26%20Test%20Strategies-darkblue?style=flat-square&logo=security" alt="Security & Test Strategies" />
-</p>
-
+**Core Skills:**  
+- Application Development  
+- Data Structures & Algorithms  
+- IoT & Salesforce  
+- Security & Test Strategies
 
 ---
 
@@ -149,5 +140,4 @@ successful product releases
 <p align="center">
   📍 <strong>Bhubaneswar, Odisha, India</strong> &nbsp;|&nbsp;
   ✉️ <a href="mailto:eivorftw234@gmail.com">eivorftw234@gmail.com</a> &nbsp;|&nbsp;
-  
 </p>
