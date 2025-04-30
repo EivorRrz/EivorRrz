@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="https://github.com/your-username"><img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square" alt="Profile Views" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?style=flat-square&logo=github" alt="GitHub Followers" /></a>
   <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Mishra-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://instagram.com/your-username"><img src="https://img.shields.io/badge/Instagram-@e_i_v_o_r__-E4405F?style=flat-square&logo=instagram" alt="Instagram" /></a>
 </p>
