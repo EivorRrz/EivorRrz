@@ -70,6 +70,4 @@
 <p align="center">
   📍 Bhubaneswar, Odisha, India &nbsp;|&nbsp;
   ✉️ <a href="mailto:eivorftw234@gmail.com">eivorftw234@gmail.com</a> &nbsp;|&nbsp;
-  🔗 <a href="https://github.com/EivorRrz">GitHub</a> &nbsp;|&nbsp;
-  🔗 <a href="https://your-portfolio-link.com">Portfolio</a>
 </p>
