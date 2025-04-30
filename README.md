@@ -3,7 +3,7 @@
 📍 Bhubaneswar, Odisha, India  
 📞 +91 79784 18038  
 ✉️ [eivorftw234@gmail.com](mailto:eivorftw234@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) | [GitHub](https://github.com/YOUR_USERNAME) | [Portfolio](https://your-portfolio-link.com)
+🔗 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) 
 
 ---
 
@@ -88,9 +88,7 @@ Data Structures & Algorithms · Software Development · Object-Oriented Design �
 
 ---
 
-## 🔗 Socials
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)  
+## 🔗 Socials 
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/YOUR_USERNAME)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
