@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" />
-</p>
 
 # 👋 Hi, I’m **Amit Mishra**
 
