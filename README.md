@@ -4,6 +4,8 @@
 **Node.js · Express.js · Fastify · Golang · Python**
 
 <p align="center">
+  <a href="https://github.com/EivorRrz"><img src="https://komarev.com/ghpvc/?username=EivorRrz&style=flat-square" alt="Profile Views" /></a>
+  <a href="https://github.com/EivorRrz"><img src="https://img.shields.io/github/followers/EivorRrz?style=flat-square&logo=github" alt="GitHub Followers" /></a>
   <a href="https://linkedin.com/in/amit-mishra-656676303/"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Mishra-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://instagram.com/e_i_v_o_r__/"><img src="https://img.shields.io/badge/Instagram-@e_i_v_o_r__-E4405F?style=flat-square&logo=instagram" alt="Instagram" /></a>
 </p>
@@ -18,47 +20,48 @@
 
 ---
 
-## 🎓 Education & 🛠️ Skills
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**🎓 Education**
+## 🎓 Education
 
 | Degree                              | Institution                                  | Period                  | GPA     |
 |-------------------------------------|----------------------------------------------|-------------------------|---------|
 | B.Tech in Computer Science & Eng.   | ITER, Siksha ‘O’ Anusandhan (SOA) University | Jul 2021 – Jul 2025     | 8.35/10 |
 
-    
-**🛠️ Skills**
+---
 
-| Category                | Technologies                                                   |
-|-------------------------|----------------------------------------------------------------|
-| **Languages**           | JavaScript · TypeScript · Python · Go · Java · C++             |
-| **Frameworks & APIs**   | React.js · Next.js · Node.js · Express.js · Fastify · GraphQL   |
-| **Databases & Caching** | MongoDB · MySQL · Redis                                        |
-| **DevOps & Tools**      | Git · Docker · Postman · VS Code · CI/CD · Jira                 |
-| **Cloud & Infra**       | AWS · GCP · Azure · Cloud-Native Architecture                  |
-| **Core Competencies**   | DSA · OOP · System Design · Performance Tuning                 |
+## 💼 Internships
 
+### 🌐 **Celebal Technologies**  
+**Backend Developer Intern (Node.js)**  
+*July 2024 – Nov 2024 | India*  
+- Resolved 100% of performance issues, ensuring seamless backend infrastructure.  
+- Designed and implemented scalable RESTful APIs to boost reliability and system efficiency.  
+- Delivered secure, metric-driven deployments with CI/CD pipelines.
 
-  </tr>
-</table>
+### 🌟 **ATG Global**  
+**Frontend Developer Intern (React.js)**  
+*Sept 2023 – Apr 2024 | Remote*  
+- Developed high-performance React.js applications using Redux, TypeScript, and JavaScript.  
+- Achieved a 30% UI/UX improvement through optimized component architecture and routing.  
+- Integrated IoT SDKs and implemented robust testing strategies for production readiness.
 
 ---
 
-## 📊 Tech Metrics
+## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/EivorRrz"><img src="https://komarev.com/ghpvc/?username=EivorRrz&style=flat-square" alt="Profile Views" /></a>
-  <a href="https://github.com/EivorRrz"><img src="https://img.shields.io/github/followers/EivorRrz?style=flat-square&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/EivorRrz?tab=stars"><img src="https://img.shields.io/github/stars/EivorRrz?style=flat-square&logo=github" alt="Stars" /></a>
-</p>
+- **BlockBazaar-Hub** (Node.js · Express · MongoDB · Solidity · Web3 · IPFS · Redis)  
+  - Minted NFTs on Solana with 99.9% reliability.  
+  - Built dynamic on-chain auctions; integrated decentralized storage (IPFS/Arweave).  
+  - Doubled transaction throughput via smart query optimizations.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- **RideVibe Engine** (Node.js · Express.js · MongoDB · Kafka · Redis · Docker)  
+  - Increased ride processing speed by 37% through advanced DB query tuning.  
+  - Scaled system to support 3× more concurrent users with microservices architecture.  
+  - Implemented live ride tracking, driver matching, and secure JWT authentication.
+
+- **GrubNest** (Node.js · GraphQL · MongoDB · Redis · JWT · Mocha/Chai)  
+  - Automated CRUD operations with GraphQL & Mongoose, ensuring 99.8% uptime.  
+  - Built caching layer with Redis to optimize response times.  
+  - Developed end-to-end API tests using Mocha, Chai, and Postman.
 
 ---
 
