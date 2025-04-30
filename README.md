@@ -36,7 +36,7 @@ Motivated Computer Science graduate skilled in **JavaScript**, **TypeScript**, *
 
 | Category                  | Technologies                                                                 |
 |---------------------------|------------------------------------------------------------------------------|
-| **Languages**             | JavaScript · TypeScript · Python · Go · Java · C++                           |
+| **Languages**             | JavaScript · TypeScript  · Go                           |
 | **Frameworks & APIs**     | React.js · Next.js · Node.js · Express.js · Fastify · GraphQL                 |
 | **Databases & Caching**   | MongoDB · MySQL · Redis                                                      |
 | **DevOps & Tools**        | Git · Docker · Postman · VS Code · CI/CD · Jira                               |
