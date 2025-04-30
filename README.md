@@ -1,60 +1,80 @@
 # 👋 Hi, I’m AMIT MISHRA
 
-🚀 **Backend Developer | Versatile Tech Enthusiast | Node.js · Express.js · Fastify · Golang & More**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=EivorRrz&style=flat-square)](https://github.com/EivorRrz)  
-[![GitHub Followers](https://img.shields.io/github/followers/EivorRrz?style=flat-square&logo=github)](https://github.com/EivorRrz)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Mishra-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amit-mishra-656676303/)  
-[![Instagram](https://img.shields.io/badge/Instagram-@e_i_v_o_r__-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/e_i_v_o_r__/)
+**+91 79784 18038**  |  **eivorftw234@gmail.com**  |  **Bhubaneswar, OR, India**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Mishra-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amit-mishra-656676303/)  [![GitHub Followers](https://img.shields.io/github/followers/EivorRrz?style=flat-square&logo=github)](https://github.com/EivorRrz)  [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=netlify)](https://your-portfolio-link.com)
 
 ---
 
-### 🎓 Currently Leveling Up
-Wrapping up my **B.Tech in Computer Science & Engineering** at **ITER, SOA University**, while diving into impactful internships.
+## 🚀 Professional Summary
+
+I'm a motivated engineering graduate skilled in **JavaScript**, **TypeScript**, **React.js**, **Node.js**, **Golang**, and **Python**. Experienced in **Algorithm Design**, **Problem Solving**, **System Analysis & Optimization**, **Object-Oriented Design**, and building **scalable cloud systems**. I excel in technical execution, collaborate effectively in cross-functional teams, and am passionate about delivering solutions that meet market demands.
 
 ---
 
-### 💼 Professional Experience
+## 🎓 Education
 
-#### 🌟 ATG Global
-- **Built** scalable React.js applications with Redux, TypeScript & JavaScript, driving a **30% uplift** in engagement.  
-- **Optimized** UI/UX via component-driven architecture, efficient routing & state management.  
-- **Integrated** multiple IoT SDKs and enforced robust testing strategies for production readiness.
-
-#### 🎉 Celebal Technologies
-- **Resolved** 100% of performance bottlenecks to ensure seamless CI/CD pipelines and infrastructure stability.  
-- **Architected** and implemented efficient API designs, boosting system reliability and horizontal scalability.  
-- **Enhanced** backend metrics & monitoring, leading to data-driven optimizations and streamlined releases.
+**Bachelor of Technology, Computer Science & Engineering**  
+ITER, Siksha 'O' Anusandhan (2021 – 2025)  
+**GPA:** 8.35
 
 ---
 
-### 🛠️ Skills & Technologies
+## 💼 Professional Experience
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"   alt="JavaScript" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"   alt="TypeScript" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"       alt="Node.js" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"      alt="Express.js" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastify.svg"             alt="Fastify" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"         alt="Golang" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"     alt="MongoDB" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"        alt="Sass" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"      alt="HTML5" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"       alt="CSS3" width="36" height="36" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vscode.svg"             alt="VS Code" width="36" height="36" />
-</p>
+#### 📌 Celebal Technologies | Backend Developer (Node.js Intern)
+**July 2024 – Nov 2024**  
+- Drove application development by resolving **100%** of performance issues and ensuring seamless infrastructure growth.  
+- Improved system reliability & scalability by implementing efficient API architectures and development methodologies.  
+- Enhanced backend for high-performance, secure solutions through robust metrics and streamlined releases.
+
+#### 📌 Across The Globe (ATG) | Frontend Developer (React.js Intern)
+**Jan 2024 – April 2024**  
+- Developed scalable React.js applications with Redux, TypeScript & JavaScript, boosting performance and engagement.  
+- Optimized UI/UX by **30%** via state management, routing, and component-driven design.  
+- Integrated multiple IoT SDKs and executed comprehensive test strategies.
+
+---
+
+## 🚧 Projects & Outside Experience
+
+### 🔗 BlockBazaar-Hub: Blockchain Marketplace Backend  
+**Tech:** Node.js, Express, MongoDB, Solidity, Web3, IPFS, Redis  
+- Minted on-chain NFTs via Solana smart contracts with **99.9%** reliability.  
+- Built dynamic auctions and integrated decentralized storage (IPFS/Arweave).  
+- Boosted transaction speed by **2×** through query optimization and efficient Web3 storage.  
+- [View Repository](https://github.com/EivorRrz/BlockBazaar-Hub)
+
+### 🔗 RideVibe Engine: Cab Booking Backend  
+**Tech:** Node.js, Express.js, MongoDB, JWT, Bcrypt.js, Kafka, Redis, Docker  
+- Improved ride processing speed by **37%** through advanced query optimization.  
+- Built a scalable ride management system supporting **3×** more concurrent users.  
+- Delivered **100%** coverage for pickup/drop-off, vehicle info, and live tracking.  
+- [View Repository](https://github.com/EivorRrz/RideVibe-Engine)
+
+### 🔗 GrubNest: Restaurant Management Backend  
+**Tech:** Node.js, Express.js, MongoDB, GraphQL, Redis, Postman, Mocha, Chai  
+- Optimized user onboarding with Node.js, Express.js, MongoDB, JWT & Redis for **99.8%** access success.  
+- Developed CRUD operations with GraphQL and Mongoose for food, orders, and restaurants.  
+- Automated API testing with Postman, Mocha & Chai to ensure high reliability.  
+- [View Repository](https://github.com/EivorRrz/GrubNest)
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages & Frameworks:** JavaScript, TypeScript, Python, C++, Java, Go, HTML/CSS, React.js, Next.js, Node.js, Express.js  
+**Databases & APIs:** MongoDB, MySQL, REST APIs, Microservices  
+**Tools & Practices:** VS Code, Docker, Postman, Git, CI/CD, Agile  
+**Cloud & Architecture:** AWS, GCP, Azure, Cloud-native Design  
+**Core Skills:** Data Structures & Algorithms, OOP, Problem Solving
 
 ---
 
 ### 🏆 Achievements & Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EivorRrz&style=flat-square" alt="Profile Views" />
   <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app/?username=EivorRrz&theme=radical&margin-w=15&no-frame=true" alt="Trophies" />
 </p>
@@ -67,4 +87,4 @@ Let’s connect and build something extraordinary! 💬✨
 
 - 📍 Based in **India**  
 - ✉️ [eivorftw234@gmail.com](mailto:eivorftw234@gmail.com)  
-- ⚡ *“I put the ‘fun’ in function!”* 🎉🔧  
+- ⚡ *“I put the ‘fun’ in function!”* 🎉🔧
