@@ -2,8 +2,8 @@
 # 👋 Hi, I’m **Amit Mishra**
 
 <p align="center">
-  🚀 **Backend Developer & Versatile Tech Enthusiast**  
-  Node.js · Express.js · Fastify · Golang · Python
+  🚀 Backend Developer & Versatile Tech Enthusiast 
+  Node.js · Express.js · Fastify · Golang & More
 </p>
 
 
