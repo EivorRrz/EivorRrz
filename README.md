@@ -1,9 +1,7 @@
-
-
 # 👋 Hi, I’m **Amit Mishra**
 
-<h3 align="center">🚀 Backend Developer & Versatile Tech Enthusiast</h3>
-<p align="center"><strong>Node.js · Express.js · Fastify · Golang · Python</strong></p>
+### 🚀 Backend Developer & Versatile Tech Enthusiast  
+**Node.js · Express.js · Fastify · Golang · Python**
 
 <p align="center">
   <a href="https://linkedin.com/in/amit-mishra-656676303/"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Mishra-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
@@ -28,9 +26,9 @@
 
 **🎓 Education**
 
-| Degree                            | Institution                                 | Period                  | GPA     |
-|-----------------------------------|---------------------------------------------|-------------------------|---------|
-| B.Tech in Computer Science & Eng. | ITER, Siksha ‘O’ Anusandhan (SOA) University | Jul 2021 – Jul 2025     | 8.35/10 |
+| Degree                              | Institution                                  | Period                  | GPA     |
+|-------------------------------------|----------------------------------------------|-------------------------|---------|
+| B.Tech in Computer Science & Eng.   | ITER, Siksha ‘O’ Anusandhan (SOA) University | Jul 2021 – Jul 2025     | 8.35/10 |
 
     </td>
     <td width="50%" valign="top">
@@ -57,7 +55,7 @@
 <p align="center">
   <a href="https://github.com/EivorRrz"><img src="https://komarev.com/ghpvc/?username=EivorRrz&style=flat-square" alt="Profile Views" /></a>
   <a href="https://github.com/EivorRrz"><img src="https://img.shields.io/github/followers/EivorRrz?style=flat-square&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/EivorRrz?tab=stars"><img src="https://img.shields.io/github/stars/EivorRrz?style=flat-square" alt="Stars" /></a>
+  <a href="https://github.com/EivorRrz?tab=stars"><img src="https://img.shields.io/github/stars/EivorRrz?style=flat-square&logo=github" alt="Stars" /></a>
 </p>
 
 <p align="center">
@@ -71,5 +69,6 @@
 <p align="center">
   📍 Bhubaneswar, Odisha, India &nbsp;|&nbsp;
   ✉️ <a href="mailto:eivorftw234@gmail.com">eivorftw234@gmail.com</a> &nbsp;|&nbsp;
+  🔗 <a href="https://github.com/EivorRrz">GitHub</a> &nbsp;|&nbsp;
+  🔗 <a href="https://your-portfolio-link.com">Portfolio</a>
 </p>
-
