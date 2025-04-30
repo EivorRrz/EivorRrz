@@ -97,9 +97,6 @@ successful product releases.
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact Me  
+📍 Bhubaneswar, Odisha, India  |  ✉️ [eivorftw234@gmail.com](mailto:eivorftw234@gmail.com)  |  💬 [Join me on Discord](https://discord.gg/4PNPta97h3)
 
-<p align="center">
-  📍 <strong>Bhubaneswar, Odisha, India</strong> &nbsp;|&nbsp;
-  ✉️ <a href="mailto:eivorftw234@gmail.com">eivorftw234@gmail.com</a> &nbsp;|&nbsp;
-</p>
