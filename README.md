@@ -48,17 +48,20 @@
 
 ## 🚀 Projects
 
-- **BlockBazaar-Hub** (Node.js · Express · MongoDB · Solidity · Web3 · IPFS · Redis)  
+- **BlockBazaar-Hub**  
+  *(Node.js · Express · MongoDB · Solidity · Web3 · IPFS · Redis)*  
   - Minted NFTs on Solana with 99.9% reliability.  
   - Built dynamic on-chain auctions; integrated decentralized storage (IPFS/Arweave).  
   - Doubled transaction throughput via smart query optimizations.
 
-- **RideVibe Engine** (Node.js · Express.js · MongoDB · Kafka · Redis · Docker)  
+- **RideVibe Engine**  
+  *(Node.js · Express.js · MongoDB · Kafka · Redis · Docker)*  
   - Increased ride processing speed by 37% through advanced DB query tuning.  
   - Scaled to support 3× more concurrent users with microservices architecture.  
   - Implemented live ride tracking, driver matching, and secure JWT authentication.
 
-- **GrubNest** (Node.js · GraphQL · MongoDB · Redis · JWT · Mocha/Chai)  
+- **GrubNest**  
+  *(Node.js · GraphQL · MongoDB · Redis · JWT · Mocha/Chai)*  
   - Automated CRUD operations with GraphQL & Mongoose, ensuring 99.8% uptime.  
   - Built caching layer with Redis to optimize response times.  
   - Developed end-to-end API tests using Mocha, Chai, and Postman.
@@ -68,19 +71,15 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=donut&theme=radical" alt="Language Distribution" width="220px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&theme=radical" alt="GitHub Stats" width="220px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=radical&hide_border=true" alt="GitHub Streak" width="220px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=donut&theme=radical" alt="Language Distribution" width="240px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&theme=radical" alt="GitHub Stats" width="240px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=radical&hide_border=true" alt="GitHub Streak" width="240px" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=donut&theme=radical" alt="Language Distribution" width="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&theme=radical" alt="GitHub Stats" width="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=radical&hide_border=true" alt="GitHub Streak" width="180px" />
-</p>
+📍 Bhubaneswar, Odisha, India  
+✉️ [eivorftw234@gmail.com](mailto:eivorftw234@gmail.com)  
+🔗 [linkedin.com/in/amit-mishra-656676303](https://linkedin.com/in/amit-mishra-656676303)
