@@ -3,7 +3,7 @@
 
 <p align="center">
   🚀 Backend Developer & Versatile Tech Enthusiast 
-  Node.js · Express.js · Fastify · Golang & More
+ <b>> Node.js · Express.js · Fastify · Golang & More</b
 </p>
 
 
