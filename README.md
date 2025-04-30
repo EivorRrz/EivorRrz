@@ -2,14 +2,15 @@
 
 🚀 **Backend Developer | Versatile Tech Enthusiast | Node.js · Express.js · Fastify · Golang & More**
 
-[![GitHub Followers](https://img.shields.io/github/followers/EivorRrz?style=flat&logo=github)](https://github.com/EivorRrz)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Mishra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amit-mishra-656676303/)  
-[![Instagram](https://img.shields.io/badge/Instagram-@e_i_v_o_r__-E4405F?style=flat&logo=instagram)](https://www.instagram.com/e_i_v_o_r__/)  
+[![Profile Views](https://komarev.com/ghpvc/?username=EivorRrz&style=flat-square)](https://github.com/EivorRrz)  
+[![GitHub Followers](https://img.shields.io/github/followers/EivorRrz?style=flat-square&logo=github)](https://github.com/EivorRrz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Mishra-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amit-mishra-656676303/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@e_i_v_o_r__-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/e_i_v_o_r__/)
 
 ---
 
 ### 🎓 Currently Leveling Up
-Wrapping up my **B.Tech in Computer Science & Engineering** at **ITER, SOA University**, while diving into impactful internships.  
+Wrapping up my **B.Tech in Computer Science & Engineering** at **ITER, SOA University**, while diving into impactful internships.
 
 ---
 
@@ -18,12 +19,12 @@ Wrapping up my **B.Tech in Computer Science & Engineering** at **ITER, SOA Unive
 #### 🌟 ATG Global
 - **Built** scalable React.js applications with Redux, TypeScript & JavaScript, driving a **30% uplift** in engagement.  
 - **Optimized** UI/UX via component-driven architecture, efficient routing & state management.  
-- **Integrated** multiple IoT SDKs and enforced robust testing strategies for production readiness.  
+- **Integrated** multiple IoT SDKs and enforced robust testing strategies for production readiness.
 
 #### 🎉 Celebal Technologies
 - **Resolved** 100% of performance bottlenecks to ensure seamless CI/CD pipelines and infrastructure stability.  
 - **Architected** and implemented efficient API designs, boosting system reliability and horizontal scalability.  
-- **Enhanced** backend metrics & monitoring, leading to data-driven optimizations and streamlined releases.  
+- **Enhanced** backend metrics & monitoring, leading to data-driven optimizations and streamlined releases.
 
 ---
 
@@ -46,18 +47,24 @@ Wrapping up my **B.Tech in Computer Science & Engineering** at **ITER, SOA Unive
 
 ---
 
-### 🚀 Always On the Hunt
-I thrive on **continuous learning**, love tackling new challenges, and am always open to collaboration.  
-Let’s connect and build something extraordinary! 💬✨  
+### 🏆 Achievements & Stats
 
-- 📍 Based in **India**  
-- ✉️ [eivorftw234@gmail.com](mailto:eivorftw234@gmail.com)  
-- ⚡ *“I put the ‘fun’ in function!”* 🎉🔧  
-
----
-
-### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EivorRrz&theme=radical&margin-w=15&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+### 🚀 Always On the Hunt
+I thrive on **continuous learning**, love tackling new challenges, and am always open to collaboration.  
+Let’s connect and build something extraordinary! 💬✨
+
+- 📍 Based in **India**  
+- ✉️ [eivorftw234@gmail.com](mailto:eivorftw234@gmail.com)  
+- ⚡ *“I put the ‘fun’ in function!”* 🎉🔧  
