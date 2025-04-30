@@ -45,6 +45,15 @@ Motivated Computer Science graduate skilled in **JavaScript**, **TypeScript**, *
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/EivorRrz"><img src="https://komarev.com/ghpvc/?username=EivorRrz&style=flat-square" alt="Profile Views" /></a>
+  <a href="https://github.com/EivorRrz"><img src="https://img.shields.io/github/followers/EivorRrz?style=flat-square&logo=github" alt="Followers" /></a>
+</p>
+
+---
+
 ## 💼 Professional Experience
 
 **Celebal Technologies — Backend Developer Intern (Node.js)**  
@@ -77,16 +86,6 @@ Motivated Computer Science graduate skilled in **JavaScript**, **TypeScript**, *
   - Achieved 99.8% access success with JWT and Redis caching.  
   - Automated API testing with Mocha, Chai & Postman.  
   - Streamlined CRUD operations with GraphQL and Mongoose.
-
----
-
-### 📊 Stats
-
-| Metric                  | Value |
-|-------------------------|-------|
-| **Code Coverage**       | 85%   |
-| **Projects Completed**  | 3     |
-| **Clients Served**      | 2     |
 
 ---
 
