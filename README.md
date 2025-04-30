@@ -1,24 +1,28 @@
 # Hi! I'm AMIT MISHRA
 
-🚀 **MERN Stack Developer And React & Node.js Enthusiast!**  
-Ready to conquer the digital universe with my trusty sidekicks **React.js**, **Node.js**, and **Express.js**! 💻✨  
+🚀 Backend Developer | Versatile Tech Enthusiast | Node.js, Express.js, Fastify, Golang & More
 
 ### 🎓 Currently Leveling Up:  
 Wrapping up my **B.Tech** in **Computer Science and Engineering** at **ITER SOA**, while diving into some epic internships!  
 
 ### 🌟 ATG Global:  
-- **Dove** into **React.js** and **Redux** like a boss, crafting web applications that made everyone say, “Whoa, that’s cool!”  
-- Snagged the title of **"Top Performer and Outstanding Intern"** 🏆—because who doesn’t love a shiny trophy on their shelf?  
+•  Developed scalable React.js apps with Redux, JavaScript, and TypeScript, boosting performance and engagement.
+•  Improved UI/UX by 30% through optimized state management, efficient routing, and component-based architecture.
+•  Integrated multiple SDKs for IoT readiness while executing robust test strategies.
+
 
 ### 🎉 Celebal Technologies:  
-- Made a grand entrance as a **Node.js Trainee**, leading projects that turned heads and dropped jaws.  
-- Cooked up the **VirtuoSphere** platform and snazzy **ML solutions** like **Scriptify Pro**—where cutting-edge tech meets user-friendly flair!  
+•  Drive application development by resolving 100% of performance issues and ensuring seamless infrastructure. 
+•  Improved system reliability and scalability by implementing efficient API architectures and development 
+   methodologies
+•  Enhanced infrastructure for high-performance, secure backend solutions driven by robust metrics and streamlined 
+   releases.
+
 
 ### 🚀 🔍 Always On the Hunt:  
 Passionate about **continuous learning** and always ready to tackle new challenges. Let’s connect and sprinkle some digital magic together! 💬✨  
 
-* 🌍  I'm based in India  
-* 🖥️  See my portfolio at [https://eivorr-portfolio.netlify.app/](https://eivorr-portfolio.netlify.app/)  
+* 🌍  I'm based in India   
 * ✉️  You can contact me at [eivorftw234@gmail.com](mailto:eivorftw234@gmail.com)  
 * ⚡  "I put the ‘fun’ in function!" 🎉🔧  
 
