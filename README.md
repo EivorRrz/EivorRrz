@@ -22,22 +22,22 @@
 
 ## 🎓 Education
 
-| Degree                              | Institution                                  | Period                  | GPA     |
-|-------------------------------------|----------------------------------------------|-------------------------|---------|
-| B.Tech in Computer Science & Eng.   | ITER, Siksha ‘O’ Anusandhan (SOA) University | Jul 2021 – Jul 2025     | 8.35/10 |
+| Degree                            | Institution                                  | Period                  | GPA     |
+|-----------------------------------|----------------------------------------------|-------------------------|---------|
+| B.Tech in Computer Science & Eng. | ITER, Siksha ‘O’ Anusandhan (SOA) University | Jul 2021 – Jul 2025     | 8.35/10 |
 
 ---
 
 ## 💼 Internships
 
-### 🌐 **Celebal Technologies**  
+### 🌐 Celebal Technologies  
 **Backend Developer Intern (Node.js)**  
 *July 2024 – Nov 2024 | India*  
 - Resolved 100% of performance issues, ensuring seamless backend infrastructure.  
 - Designed and implemented scalable RESTful APIs to boost reliability and system efficiency.  
 - Delivered secure, metric-driven deployments with CI/CD pipelines.
 
-### 🌟 **ATG Global**  
+### 🌟 ATG Global  
 **Frontend Developer Intern (React.js)**  
 *Sept 2023 – Apr 2024 | Remote*  
 - Developed high-performance React.js applications using Redux, TypeScript, and JavaScript.  
@@ -55,7 +55,7 @@
 
 - **RideVibe Engine** (Node.js · Express.js · MongoDB · Kafka · Redis · Docker)  
   - Increased ride processing speed by 37% through advanced DB query tuning.  
-  - Scaled system to support 3× more concurrent users with microservices architecture.  
+  - Scaled to support 3× more concurrent users with microservices architecture.  
   - Implemented live ride tracking, driver matching, and secure JWT authentication.
 
 - **GrubNest** (Node.js · GraphQL · MongoDB · Redis · JWT · Mocha/Chai)  
@@ -65,9 +65,24 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=donut&theme=radical" alt="Language Distribution" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
+
+---
+
 ## 📫 Contact Me
 
 <p align="center">
   📍 Bhubaneswar, Odisha, India &nbsp;|&nbsp;
   ✉️ <a href="mailto:eivorftw234@gmail.com">eivorftw234@gmail.com</a> &nbsp;|&nbsp;
+  🔗 <a href="https://github.com/EivorRrz">GitHub</a> &nbsp;|&nbsp;
+  🔗 <a href="https://your-portfolio-link.com">Portfolio</a>
 </p>
