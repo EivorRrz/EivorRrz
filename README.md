@@ -71,13 +71,66 @@ successful product releases
 
 ## 💻 Skills
 
-- **Backend Development**: Node.js, Express.js, Fastify, Golang, Python  
-- **Frontend Development**: React.js, Redux, TypeScript, JavaScript  
-- **Database Technologies**: MongoDB, PostgreSQL, Redis, IPFS  
-- **Blockchain**: Solidity, Web3, Smart Contracts, IPFS, Arweave  
-- **API Development**: RESTful APIs, GraphQL, JWT, Bcrypt.js  
-- **DevOps & Tools**: Docker, Kafka, Postman, Mocha, Chai, Git  
-- **Cloud & Serverless**: AWS, GCP, Serverless Framework  
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Development-Node.js-brightgreen?style=flat-square&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Backend%20Development-Express.js-blue?style=flat-square&logo=express" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Backend%20Development-Fastify-darkblue?style=flat-square&logo=fastify" alt="Fastify" />
+  <img src="https://img.shields.io/badge/Backend%20Development-Golang-lightblue?style=flat-square&logo=go" alt="Golang" />
+  <img src="https://img.shields.io/badge/Backend%20Development-Python-blue?style=flat-square&logo=python" alt="Python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Development-React.js-brightgreen?style=flat-square&logo=react" alt="React.js" />
+  <img src="https://img.shields.io/badge/Frontend%20Development-Redux-blue?style=flat-square&logo=redux" alt="Redux" />
+  <img src="https://img.shields.io/badge/Frontend%20Development-TypeScript-blue?style=flat-square&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Frontend%20Development-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Database%20Technologies-MongoDB-green?style=flat-square&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Database%20Technologies-PostgreSQL-blue?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Database%20Technologies-Redis-darkred?style=flat-square&logo=redis" alt="Redis" />
+  <img src="https://img.shields.io/badge/Database%20Technologies-IPFS-black?style=flat-square&logo=ipfs" alt="IPFS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blockchain-Solidity-blueviolet?style=flat-square&logo=solidity" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Blockchain-Web3-0A0A0A?style=flat-square&logo=web3" alt="Web3" />
+  <img src="https://img.shields.io/badge/Blockchain-Smart%20Contracts-darkblue?style=flat-square&logo=ethereum" alt="Smart Contracts" />
+  <img src="https://img.shields.io/badge/Blockchain-IPFS-black?style=flat-square&logo=ipfs" alt="IPFS" />
+  <img src="https://img.shields.io/badge/Blockchain-Arweave-darkorange?style=flat-square&logo=arweave" alt="Arweave" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API%20Development-RESTful%20APIs-green?style=flat-square&logo=api" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/API%20Development-GraphQL-black?style=flat-square&logo=graphql" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/API%20Development-JWT-blue?style=flat-square&logo=json-web-tokens" alt="JWT" />
+  <img src="https://img.shields.io/badge/API%20Development-Bcrypt.js-darkgreen?style=flat-square&logo=bcrypt" alt="Bcrypt.js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Docker-blue?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Kafka-blue?style=flat-square&logo=kafka" alt="Kafka" />
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Postman-yellow?style=flat-square&logo=postman" alt="Postman" />
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Mocha-green?style=flat-square&logo=mocha" alt="Mocha" />
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Chai-yellow?style=flat-square&logo=chai" alt="Chai" />
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Tools-Git-orange?style=flat-square&logo=git" alt="Git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud%20Computing-AWS-orange?style=flat-square&logo=amazonaws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-GCP-blue?style=flat-square&logo=googlecloud" alt="GCP" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-Azure-darkblue?style=flat-square&logo=microsoftazure" alt="Azure" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-Cloud-native%20Architecture-darkgreen?style=flat-square&logo=cloud" alt="Cloud-native Architecture" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Core%20Skills-Application%20Development-blue?style=flat-square&logo=appveyor" alt="Application Development" />
+  <img src="https://img.shields.io/badge/Core%20Skills-Data%20Structures%20%26%20Algorithms-lightblue?style=flat-square&logo=algorithm" alt="Data Structures & Algorithms" />
+  <img src="https://img.shields.io/badge/Core%20Skills-IoT%20%26%20Salesforce-green?style=flat-square&logo=iot" alt="IoT & Salesforce" />
+  <img src="https://img.shields.io/badge/Core%20Skills-Security%20%26%20Test%20Strategies-darkblue?style=flat-square&logo=security" alt="Security & Test Strategies" />
+</p>
+
 
 ---
 
