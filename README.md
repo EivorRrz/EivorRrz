@@ -80,7 +80,7 @@ successful product releases.
 | **Backend Development**    | Node.js, Express.js, Fastify, Golang, Python                                            |
 | **Frontend Development**   | React.js, Redux, TypeScript, JavaScript                                                 |
 | **Database Technologies**  | MongoDB, PostgreSQL, Redis                                                              |
-| **Blockchain**             | Solidity, Web3, Smart Contracts, IPFS, Arweave                                          |
+| **Blockchain**             | Solidity, Web3, Solana, IPFS                                                            |
 | **API Development**        | RESTful APIs, GraphQL                                                                   |
 | **Infrastructure & Testing Tools** | Docker, Kafka, RabbitMQ, Postman, Mocha, Chai, Git                              |
 
