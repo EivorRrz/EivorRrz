@@ -77,7 +77,7 @@ successful product releases.
 
 | **Category**               | **Technologies / Tools**                                                               |
 |----------------------------|-----------------------------------------------------------------------------------------|
-| **Backend Development**    | Node.js, Express.js, Fastify, Golang, Python                                            |
+| **Backend Development**    | Node.js, Express.js, Fastify, Golang,                                                   |
 | **Frontend Development**   | React.js, Redux, TypeScript, JavaScript                                                 |
 | **Database Technologies**  | MongoDB, PostgreSQL, Redis                                                              |
 | **Blockchain**             | Solidity, Web3, Solana, IPFS                                                            |
