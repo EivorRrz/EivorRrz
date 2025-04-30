@@ -83,5 +83,4 @@ successful product releases
 <p align="center">
   📍 <strong>Bhubaneswar, Odisha, India</strong> &nbsp;|&nbsp;
   ✉️ <a href="mailto:eivorftw234@gmail.com">eivorftw234@gmail.com</a> &nbsp;|&nbsp;
-  🌐 <a href="https://github.com/EivorRrz">github.com/EivorRrz</a>
 </p>
