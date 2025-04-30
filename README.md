@@ -13,66 +13,76 @@
 
 ## 🧠 Professional Summary
 
-> Motivated Computer Science graduate skilled in **JavaScript**, **TypeScript**, **React.js**, **Node.js**, **Golang**, and **Python**.  
-> Expertise in algorithm design, system optimization, cloud-native architectures, and collaborative development.  
-> Passionate about high-performance, scalable solutions and continuous innovation.
+> 🎓 I’m a highly motivated Computer Science graduate, passionate about backend engineering and system architecture.  
+> 🛠️ I specialize in **JavaScript**, **TypeScript**, **React.js**, **Node.js**, **Golang**, and **Python** to build modern, scalable, and cloud-native web systems.  
+> 🔍 My core strength lies in algorithm design, database tuning, REST/GraphQL API development, and creating reliable and testable systems.  
+> 🌐 I enjoy building performance-focused applications and constantly explore new technologies to refine user and developer experiences.
 
 ---
 
 ## 🎓 Education
 
-| Degree                            | Institution                                  | Period                  | GPA     |
-|-----------------------------------|----------------------------------------------|-------------------------|---------|
-| B.Tech in Computer Science & Eng. | ITER, Siksha ‘O’ Anusandhan (SOA) University | Jul 2021 – Jul 2025     | 8.35/10 |
+| Degree                            | Institution                                  | Period              | GPA     |
+|-----------------------------------|----------------------------------------------|---------------------|---------|
+| B.Tech in Computer Science & Eng. | ITER, Siksha ‘O’ Anusandhan (SOA) University | Jul 2021 – Jul 2025 | 8.35/10 |
 
 ---
 
 ## 💼 Internships
 
-### 🌐 Celebal Technologies  
-**Backend Developer Intern (Node.js)**  
-*July 2024 – Nov 2024 | India*  
-- Resolved 100% of performance issues, ensuring seamless backend infrastructure.  
-- Designed and implemented scalable RESTful APIs to boost reliability and system efficiency.  
-- Delivered secure, metric-driven deployments with CI/CD pipelines.
+### 🌐 Celebal Technologies – *Backend Developer (Node.js Intern)*  
+📍 *India | July 2024 – Nov 2024*  
+- Drive application development by resolving 100% of performance issues and ensuring seamless infrastructure for growth.  
+- Improved system reliability and scalability by implementing efficient API architectures and development methodologies.  
+- Enhanced infrastructure for high-performance, secure backend solutions driven by robust metrics and streamlined releases.
 
-### 🌟 ATG Global  
-**Frontend Developer Intern (React.js)**  
-*Sept 2023 – Apr 2024 | Remote*  
-- Developed high-performance React.js applications using Redux, TypeScript, and JavaScript.  
-- Achieved a 30% UI/UX improvement through optimized component architecture and routing.  
-- Integrated IoT SDKs and implemented robust testing strategies for production readiness.
+### 🌟 Across The Globe (ATG) – *Frontend Developer (React.js Intern)*  
+📍 *India | Sept 2023 – Apr 2024*  
+- Developed scalable React.js apps with Redux, JavaScript, and TypeScript, boosting performance and engagement.  
+- Improved UI/UX by 30% through optimized state management, efficient routing, and component-based architecture.  
+- Integrated multiple SDKs for IoT readiness while executing robust test strategies.
 
 ---
 
 ## 🚀 Projects
 
-- **BlockBazaar-Hub** (Node.js · Express · MongoDB · Solidity · Web3 · IPFS · Redis)  
-  - Minted NFTs on Solana with 99.9% reliability.  
-  - Built dynamic on-chain auctions; integrated decentralized storage (IPFS/Arweave).  
-  - Doubled transaction throughput via smart query optimizations.
+### 🔗 BlockBazaar-Hub: Blockchain Marketplace Backend  
+*JavaScript, Node.js, Express, MongoDB, Solidity, Web3, IPFS, Redis*  
+- Minted on-chain NFTs via lightning-fast Solana smart contracts with 99.9% reliability.  
+- Built dynamic auctions and integrated decentralized storage (IPFS/Arweave).  
+- Boosted transaction speed by 2x through smart query optimization and Web3 storage.  
+- [Link to project](#)
 
-- **RideVibe Engine** (Node.js · Express.js · MongoDB · Kafka · Redis · Docker)  
-  - Increased ride processing speed by 37% through advanced DB query tuning.  
-  - Scaled to support 3× more concurrent users with microservices architecture.  
-  - Implemented live ride tracking, driver matching, and secure JWT authentication.
+### 🚖 RideVibe Engine: Cab Booking Backend  
+*Node.js, Express.js, MongoDB, JWT, Bcrypt.js, Express-Validator, Kafka, Redis, Docker*  
+- Improved ride processing speed by 37% through advanced query optimization.  
+- Built a scalable ride management system supporting 3x more concurrent users.  
+- Delivered 100% coverage for pickup/drop-off, vehicle info, and live ride tracking.  
+- [Link to project](#)
 
-- **GrubNest** (Node.js · GraphQL · MongoDB · Redis · JWT · Mocha/Chai)  
-  - Automated CRUD operations with GraphQL & Mongoose, ensuring 99.8% uptime.  
-  - Built caching layer with Redis to optimize response times.  
-  - Developed end-to-end API tests using Mocha, Chai, and Postman.
+### 🍽️ GrubNest: Restaurant Management Backend  
+*Node.js, Express.js, MongoDB, JWT, Redis, GraphQL, Mongoose, Postman, Mocha, Chai*  
+- Optimized user onboarding with Node.js, Express.js, MongoDB, JWT, and Redis, ensuring 99.8% access success.  
+- Developed efficient CRUD operations with GraphQL and Mongoose for food, orders, and restaurant data.  
+- Automated API testing with Postman, Mocha, and Chai to ensure high performance and reliability.  
+- [Link to project](#)
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=donut&theme=radical" alt="Language Distribution" width="260px" /> <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&theme=radical" alt="GitHub Stats" width="260px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=radical&hide_border=true" alt="GitHub Streak" width="260px" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=donut&theme=radical" alt="Language Distribution" width="260px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&theme=radical" alt="GitHub Stats" width="260px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=radical&hide_border=true" alt="GitHub Streak" width="260px" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
 <p align="center">
-  📍 Bhubaneswar, Odisha, India &nbsp;|&nbsp;
+  📍 <strong>Bhubaneswar, Odisha, India</strong> &nbsp;|&nbsp;
   ✉️ <a href="mailto:eivorftw234@gmail.com">eivorftw234@gmail.com</a> &nbsp;|&nbsp;
+  🌐 <a href="https://github.com/EivorRrz">github.com/EivorRrz</a>
 </p>
