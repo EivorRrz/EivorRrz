@@ -51,30 +51,29 @@ successful product releases
 - Minted on-chain NFTs via lightning-fast Solana smart contracts with 99.9% reliability.  
 - Built dynamic auctions and integrated decentralized storage (IPFS/Arweave).  
 - Boosted transaction speed by 2x through smart query optimization and Web3 storage.  
-- [Link to project](#)
+
 
 ### 🚖 RideVibe Engine: Cab Booking Backend  
 *Node.js, Express.js, MongoDB, JWT, Bcrypt.js, Express-Validator, Kafka, Redis, Docker*  
 - Improved ride processing speed by 37% through advanced query optimization.  
 - Built a scalable ride management system supporting 3x more concurrent users.  
 - Delivered 100% coverage for pickup/drop-off, vehicle info, and live ride tracking.  
-- [Link to project](#)
+
 
 ### 🍽️ GrubNest: Restaurant Management Backend  
 *Node.js, Express.js, MongoDB, JWT, Redis, GraphQL, Mongoose, Postman, Mocha, Chai*  
 - Optimized user onboarding with Node.js, Express.js, MongoDB, JWT, and Redis, ensuring 99.8% access success.  
 - Developed efficient CRUD operations with GraphQL and Mongoose for food, orders, and restaurant data.  
 - Automated API testing with Postman, Mocha, and Chai to ensure high performance and reliability.  
-- [Link to project](#)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=donut&theme=radical" alt="Language Distribution" width="260px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&theme=radical" alt="GitHub Stats" width="260px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=radical&hide_border=true" alt="GitHub Streak" width="260px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=donut&theme=radical" alt="Language Distribution" width="300px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&theme=radical" alt="GitHub Stats" width="300px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=radical&hide_border=true" alt="GitHub Streak" width="300px" />
 </p>
 
 ---
