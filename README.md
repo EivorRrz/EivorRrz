@@ -1,56 +1,63 @@
-# Hi! I'm AMIT MISHRA
+# 👋 Hi, I’m AMIT MISHRA
 
-🚀 **Backend Developer | Versatile Tech Enthusiast | Node.js, Express.js, Fastify, Golang & More**
+🚀 **Backend Developer | Versatile Tech Enthusiast | Node.js · Express.js · Fastify · Golang & More**
 
----
-
-### 🎓 Currently Leveling Up  
-Wrapping up my **B.Tech** in **Computer Science and Engineering** at **ITER, SOA University**, while diving into some epic internships!
-
----
-
-### 💼 Experience
-
-#### 🌟 ATG Global  
-- Developed scalable React.js apps with Redux, JavaScript, and TypeScript, boosting performance and engagement.  
-- Improved UI/UX by 30% through optimized state management, efficient routing, and component-based architecture.  
-- Integrated multiple SDKs for IoT readiness while executing robust test strategies.
-
-#### 🎉 Celebal Technologies  
-- Drove application development by resolving 100% of performance issues and ensuring seamless infrastructure.  
-- Improved system reliability and scalability by implementing efficient API architectures and development methodologies.  
-- Enhanced infrastructure for high-performance, secure backend solutions driven by robust metrics and streamlined releases.
+[![GitHub Followers](https://img.shields.io/github/followers/EivorRrz?style=flat&logo=github)](https://github.com/EivorRrz)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Mishra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amit-mishra-656676303/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@e_i_v_o_r__-E4405F?style=flat&logo=instagram)](https://www.instagram.com/e_i_v_o_r__/)  
 
 ---
 
-### 🚀 🔍 Always On the Hunt  
-Passionate about **continuous learning** and always ready to tackle new challenges.  
-Let’s connect and sprinkle some digital magic together! 💬✨  
-
-- 🌍 Based in **India**  
-- ✉️ Reach me at: [eivorftw234@gmail.com](mailto:eivorftw234@gmail.com)  
-- ⚡ *"I put the ‘fun’ in function!"* 🎉🔧  
+### 🎓 Currently Leveling Up
+Wrapping up my **B.Tech in Computer Science & Engineering** at **ITER, SOA University**, while diving into impactful internships.  
 
 ---
 
-### 🛠️ Skills  
+### 💼 Professional Experience
+
+#### 🌟 ATG Global
+- **Built** scalable React.js applications with Redux, TypeScript & JavaScript, driving a **30% uplift** in engagement.  
+- **Optimized** UI/UX via component-driven architecture, efficient routing & state management.  
+- **Integrated** multiple IoT SDKs and enforced robust testing strategies for production readiness.  
+
+#### 🎉 Celebal Technologies
+- **Resolved** 100% of performance bottlenecks to ensure seamless CI/CD pipelines and infrastructure stability.  
+- **Architected** and implemented efficient API designs, boosting system reliability and horizontal scalability.  
+- **Enhanced** backend metrics & monitoring, leading to data-driven optimizations and streamlined releases.  
+
+---
+
+### 🛠️ Skills & Technologies
 
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
-    <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-    <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-    <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-    <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://www.w3.org/TR/CSS/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"   alt="JavaScript" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"   alt="TypeScript" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"       alt="Node.js" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"      alt="Express.js" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastify.svg"             alt="Fastify" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"         alt="Golang" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"     alt="MongoDB" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"        alt="Sass" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"      alt="HTML5" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"       alt="CSS3" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vscode.svg"             alt="VS Code" width="36" height="36" />
 </p>
 
 ---
 
-### 🔗 Socials  
+### 🚀 Always On the Hunt
+I thrive on **continuous learning**, love tackling new challenges, and am always open to collaboration.  
+Let’s connect and build something extraordinary! 💬✨  
+
+- 📍 Based in **India**  
+- ✉️ [eivorftw234@gmail.com](mailto:eivorftw234@gmail.com)  
+- ⚡ *“I put the ‘fun’ in function!”* 🎉🔧  
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+</p>
