@@ -30,9 +30,7 @@
 |-------------------------------------|----------------------------------------------|-------------------------|---------|
 | B.Tech in Computer Science & Eng.   | ITER, Siksha ‘O’ Anusandhan (SOA) University | Jul 2021 – Jul 2025     | 8.35/10 |
 
-    </td>
-    <td width="50%" valign="top">
-
+    
 **🛠️ Skills**
 
 | Category                | Technologies                                                   |
@@ -44,7 +42,7 @@
 | **Cloud & Infra**       | AWS · GCP · Azure · Cloud-Native Architecture                  |
 | **Core Competencies**   | DSA · OOP · System Design · Performance Tuning                 |
 
-    </td>
+
   </tr>
 </table>
 
