@@ -6,8 +6,6 @@
 <p align="center"><strong>Node.js · Express.js · Fastify · Golang · Python</strong></p>
 
 <p align="center">
-  <a href="https://github.com/EivorRrz"><img src="https://komarev.com/ghpvc/?username=EivorRrz&style=flat-square" alt="Profile Views" /></a>
-  <a href="https://github.com/EivorRrz"><img src="https://img.shields.io/github/followers/EivorRrz?style=flat-square&logo=github" alt="GitHub Followers" /></a>
   <a href="https://github.com/EivorRrz?tab=stars"><img src="https://img.shields.io/github/stars/EivorRrz?style=flat-square" alt="Stars" /></a>
   <a href="https://linkedin.com/in/amit-mishra-656676303/"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Mishra-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://instagram.com/e_i_v_o_r__/"><img src="https://img.shields.io/badge/Instagram-@e_i_v_o_r__-E4405F?style=flat-square&logo=instagram" alt="Instagram" /></a>
