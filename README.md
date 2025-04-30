@@ -13,10 +13,10 @@
 
 ## 🧠 Professional Summary
 
-I'm a motivated engineering graduate skilled in JavaScript, TypeScript, React.js, Node.js, Golang, and Python. I have experience in 
-Algorithm Design, Problem Solving, System Analysis, Optimization, Object-Oriented Design, and building scalable cloud systems. 
-I excel in technical execution, collaborate effectively in cross-functional teams, and am passionate about programming, improving 
-performance, and delivering solutions that meet market demands.
+Results-oriented, analytical, and self-starter Software Engineer with strong attention to detail. Highly skilled in JavaScript, 
+TypeScript, React.js, Node.js, Golang, and Python. Experienced in design and development of AI-integrated applications, cloud-native 
+microservices, and scalable back-end systems. Passionate about delivering technical solutions that enhance user experience and drive 
+successful product releases
 
 ---
 
