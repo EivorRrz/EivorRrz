@@ -77,9 +77,10 @@
 
 ## 📫 Contact Me
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  📍 Bhubaneswar, Odisha, India &nbsp;|&nbsp;
-  ✉️ <a href="mailto:eivorftw234@gmail.com">eivorftw234@gmail.com</a> &nbsp;|&nbsp;
-  🔗 <a href="https://github.com/EivorRrz">GitHub</a> &nbsp;|&nbsp;
-  🔗 <a href="https://your-portfolio-link.com">Portfolio</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=donut&theme=radical" alt="Language Distribution" width="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&theme=radical" alt="GitHub Stats" width="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=radical&hide_border=true" alt="GitHub Streak" width="180px" />
 </p>
