@@ -69,12 +69,6 @@ Passionate about **continuous learning** and always ready to tackle new challeng
     </a>
 </p>
 
-### Projects  
-| Project Name                               | Description                                                                                                         | Link                                   |
-|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| VirtuoSphere                               | A sleek, Sass-powered platform for performance and ease of use with Stripe integration for secure payments!          | [Visit VirtuoSphere](https://virtuosphere.netlify.app/) |
-| Flixio-Movie-Web                          | Dynamic movie app showcasing my React & Redux skills with user-centric features—where design meets functionality!  | [Visit Flixio](https://flixio-o.netlify.app/)         |
-| Scriptify Pro                             | Browser-based ML for swift transcription & translation—because who needs slow when you can go fast?                 | [Visit Scriptify Pro](https://scriptify-pro-web.netlify.app/)   |
 
 ### Socials  
 <p align="left"> 
