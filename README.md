@@ -13,10 +13,10 @@
 
 ## 🧠 Professional Summary
 
-> 🎓 I’m a highly motivated Computer Science graduate, passionate about backend engineering and system architecture.  
-> 🛠️ I specialize in **JavaScript**, **TypeScript**, **React.js**, **Node.js**, **Golang**, and **Python** to build modern, scalable, and cloud-native web systems.  
-> 🔍 My core strength lies in algorithm design, database tuning, REST/GraphQL API development, and creating reliable and testable systems.  
-> 🌐 I enjoy building performance-focused applications and constantly explore new technologies to refine user and developer experiences.
+Results-oriented, analytical, and self-starter Software Engineer with strong attention to detail. Highly skilled in JavaScript, 
+TypeScript, React.js, Node.js, Golang, and Python. Experienced in design and development of AI-integrated applications, cloud-native 
+microservices, and scalable back-end systems. Passionate about delivering technical solutions that enhance user experience and drive 
+successful product releases
 
 ---
 
