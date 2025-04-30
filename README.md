@@ -71,16 +71,15 @@ successful product releases.
 
 ## 💻 Skills
 
-| **Category**              | **Technologies/Tools**                                                                 |
-|---------------------------|----------------------------------------------------------------------------------------|
-| **Backend Development**    | Node.js, Express.js, Fastify, Golang, Python                                          |
-| **Frontend Development**   | React.js, Redux, TypeScript, JavaScript                                               |
-| **Database Technologies**  | MongoDB, PostgreSQL, Redis, IPFS                                                      |
-| **Blockchain**             | Solidity, Web3, Smart Contracts, IPFS, Arweave                                        |
-| **API Development**        | RESTful APIs, GraphQL, JWT, Bcrypt.js                                                 |
-| **DevOps & Tools**         | Docker, Kafka, Postman, Mocha, Chai, Git                                              |
-| **Cloud & Serverless**     | AWS, GCP, Azure, Cloud-native Architecture                                            |
-| **Core Skills**            | Application Development, Data Structures & Algorithms, IoT & Salesforce, Security & Test Strategies |
+| **Category**               | **Technologies / Tools**                                                               |
+|----------------------------|-----------------------------------------------------------------------------------------|
+| **Backend Development**    | Node.js, Express.js, Fastify, Golang, Python                                            |
+| **Frontend Development**   | React.js, Redux, TypeScript, JavaScript                                                 |
+| **Database Technologies**  | MongoDB, PostgreSQL, Redis                                                              |
+| **Blockchain**             | Solidity, Web3, Smart Contracts, IPFS, Arweave                                          |
+| **API Development**        | RESTful APIs, GraphQL                                                                   |
+| **Infrastructure & Testing Tools** | Docker, Kafka, RabbitMQ, Postman, Mocha, Chai, Git                              |
+
 
 ---
 
