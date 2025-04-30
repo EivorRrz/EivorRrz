@@ -26,9 +26,9 @@ Motivated Computer Science graduate skilled in **JavaScript**, **TypeScript**, *
 
 ### 🎓 Education
 
-| Degree                                | Institution                                | Period                       | GPA  |
-|---------------------------------------|--------------------------------------------|------------------------------|------|
-| B.Tech in Computer Science & Engineering | ITER, Siksha ‘O’ Anusandhan (SOA) University | July 2021 – July 2025        | 8.35 |
+| Degree                                  | Institution                                   | Period                    | GPA  |
+|-----------------------------------------|-----------------------------------------------|---------------------------|------|
+| B.Tech in Computer Science & Engineering | ITER, Siksha ‘O’ Anusandhan (SOA) University  | July 2021 – July 2025     | 8.35 |
 
 ---
 
@@ -36,7 +36,7 @@ Motivated Computer Science graduate skilled in **JavaScript**, **TypeScript**, *
 
 | Category                  | Technologies                                                                 |
 |---------------------------|------------------------------------------------------------------------------|
-| **Languages**             | JavaScript · TypeScript  · Go                           |
+| **Languages**             | JavaScript · TypeScript · Python · Go · Java · C++                           |
 | **Frameworks & APIs**     | React.js · Next.js · Node.js · Express.js · Fastify · GraphQL                 |
 | **Databases & Caching**   | MongoDB · MySQL · Redis                                                      |
 | **DevOps & Tools**        | Git · Docker · Postman · VS Code · CI/CD · Jira                               |
@@ -77,6 +77,16 @@ Motivated Computer Science graduate skilled in **JavaScript**, **TypeScript**, *
   - Achieved 99.8% access success with JWT and Redis caching.  
   - Automated API testing with Mocha, Chai & Postman.  
   - Streamlined CRUD operations with GraphQL and Mongoose.
+
+---
+
+### 📊 Stats
+
+| Metric                  | Value |
+|-------------------------|-------|
+| **Code Coverage**       | 85%   |
+| **Projects Completed**  | 3     |
+| **Clients Served**      | 2     |
 
 ---
 
