@@ -92,7 +92,6 @@ successful product releases.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EivorRrz&layout=donut&theme=radical" alt="Language Distribution" width="260px" />
   <img src="https://github-readme-stats.vercel.app/api?username=EivorRrz&show_icons=true&theme=radical" alt="GitHub Stats" width="260px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EivorRrz&theme=radical&hide_border=true" alt="GitHub Streak" width="260px" />
 </p>
 
 ---
