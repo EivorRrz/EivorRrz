@@ -2,12 +2,6 @@
 # 👋 Hi, I’m **Amit Mishra**
 
 <p align="center">
-  🚀 Backend Developer & Versatile Tech Enthusiast 
- <b>  Node.js · Express.js · Fastify · Golang & More </b
-</p>
-
-
-<p align="center">
   <a href="https://github.com/EivorRrz"><img src="https://komarev.com/ghpvc/?username=EivorRrz&style=flat-square" alt="Profile Views" /></a>
   <a href="https://linkedin.com/in/amit-mishra-656676303/"><img src="https://img.shields.io/badge/LinkedIn-Amit%20Mishra-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://instagram.com/e_i_v_o_r__/"><img src="https://img.shields.io/badge/Instagram-@e_i_v_o_r__-E4405F?style=flat-square&logo=instagram" alt="Instagram" /></a>
