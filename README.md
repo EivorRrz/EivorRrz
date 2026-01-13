@@ -11,10 +11,7 @@
 
 ## 🧠 Professional Summary
 
-Results-oriented, analytical, and self-starter Software Engineer with strong attention to detail. Highly skilled in JavaScript, 
-TypeScript, React.js, Node.js, Golang, and Python. Experienced in design and development of AI-integrated applications, cloud-native 
-microservices, and scalable back-end systems. Passionate about delivering technical solutions that enhance user experience and drive 
-successful product releases.
+Backend engineer specializing in Node.js, Express.js, Fastify, Redis, RabbitMQ, and Kafka. Expert in designing scalable, high-throughput, fault-tolerant systems with optimized APIs, resilient infrastructure, and cloud-based deployments—always eager to connect and build something extraordinary!
 
 ---
 
