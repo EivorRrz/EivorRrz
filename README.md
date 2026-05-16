@@ -1,6 +1,6 @@
 # Amit Mishra
 
-SWE @EY-GDS — building AI agents and data systems for Wealth & Asset Management in production.
+SWE @ Ernst & Young— building AI agents and data systems for Wealth & Asset Management in production.
 
 JavaScript · Python · Node.js · LangChain · LangGraph · Azure OpenAI  · MongoDB · Redis · PySpark
 
